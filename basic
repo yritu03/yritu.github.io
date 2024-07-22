@@ -1,1 +1,259 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Ritu Yadav - Professional Profile</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 24px;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            background: #444;
+        }
+        nav ul li {
+            margin: 0 10px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px;
+        }
+        nav ul li a:hover {
+            background: #555;
+            border-radius: 4px;
+        }
+        .post {
+            padding: 20px;
+        }
+        .post h2 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        .post ul {
+            padding-left: 20px;
+        }
+        .post ul li {
+            margin-bottom: 10px;
+        }
+        .col-6 {
+            width: 48%;
+            float: left;
+            margin-right: 2%;
+        }
+        .col-12 {
+            width: 100%;
+            float: left;
+            margin-bottom: 20px;
+        }
+        .actions {
+            display: flex;
+            justify-content: space-between;
+        }
+        .actions li {
+            list-style: none;
+        }
+        .primary {
+            background: #007BFF;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .primary:hover {
+            background: #0056b3;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .contact-form {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .contact-form input, .contact-form textarea {
+            width: calc(50% - 10px);
+            margin-right: 10px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .contact-form textarea {
+            width: 100%;
+            margin-right: 0;
+        }
+        .contact-form button {
+            background: #007BFF;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        .contact-form button:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body class="is-preload">
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Header -->
+        <header id="header">
+            <a href="index.html" class="logo">Ritu Yadav</a>
+        </header>
+
+        <!-- Nav -->
+        <nav id="nav">
+            <ul class="links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li class="active"><a href="contact.html">Contact</a></li>
+            </ul>
+            <ul class="icons">
+                <li><a href="https://github.com/yourprofile" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+            </ul>
+        </nav>
+
+        <!-- Main -->
+        <div id="main">
+
+            <!-- Post -->
+            <section class="post">
+                <header class="major">
+                    <h1>Ritu Yadav<br />Professional Profile</h1>
+                </header>
+
+                <!-- Profile -->
+                <h2>Profile</h2>
+                <p>Hello, I'm Ritu Yadav, a results-driven professional with expertise in Business Data Analytics and Information Technology. With a master's degree in Business Data Analytics from Lawrence Technological University and an ongoing Master’s in Information Systems from the University of San Francisco, I specialize in leveraging data to drive decision-making and operational efficiency. My skills include advanced data visualization, social media analytics, and programming, and I am passionate about contributing to impactful projects and organizational success.</p>
+                <hr />
+
+                <!-- Skills -->
+                <h2>Skills</h2>
+                <div class="row">
+                    <div class="col-6 col-12-small">
+                        <h3>Technical Skills</h3>
+                        <ul>
+                            <li>Python (Certified)</li>
+                            <li>SQL (Certified)</li>
+                            <li>Power BI</li>
+                            <li>Tableau</li>
+                            <li>R Programming</li>
+                            <li>Alteryx</li>
+                            <li>Data Visualization</li>
+                            <li>ETL Processes (2 years)</li>
+                            <li>Data Management</li>
+                        </ul>
+                    </div>
+                    <div class="col-6 col-12-small">
+                        <h3>Professional Skills</h3>
+                        <ul>
+                            <li>Social Media Analytics</li>
+                            <li>Business Analysis</li>
+                            <li>Project Management</li>
+                            <li>Time Management</li>
+                            <li>Problem-Solving</li>
+                            <li>Multitasking</li>
+                            <li>Attention to Detail</li>
+                            <li>Communication & Presentation</li>
+                        </ul>
+                    </div>
+                </div>
+                <hr />
+
+                <!-- Experience -->
+                <h2>Experience</h2>
+                <div class="row">
+                    <div class="col-12">
+                        <h3>Business Analyst at Kotak Life</h3>
+                        <p>Developed comprehensive analytics solutions by analyzing business requirements and translating them into actionable insights. Managed social media analytics, supported management with strategic decision-making, and created interactive Power BI dashboards and reports. Utilized Alteryx for advanced data preparation and analytics, enhancing data accuracy and reporting efficiency.</p>
+                    </div>
+                    <div class="col-12">
+                        <h3>Seasonal Data Analyst</h3>
+                        <p>Played a key role in improving data reporting systems through SQL and Python. Focused on enhancing data extraction, transformation, and loading processes. Conducted statistical analysis and predictive modeling using R Programming, providing valuable insights for strategic planning and decision-making.</p>
+                    </div>
+                </div>
+                <hr />
+
+                <!-- Education -->
+                <h2>Education</h2>
+                <div class="row">
+                    <div class="col-12">
+                        <h3>Master’s in Business Data Analytics</h3>
+                        <p>Lawrence Technological University, GPA: 3.95</p>
+                    </div>
+                    <div class="col-12">
+                        <h3>Master’s in Information Systems</h3>
+                        <p>University of San Francisco, Current GPA: 3.93</p>
+                    </div>
+                </div>
+                <hr />
+
+                <!-- Contact Form -->
+                <h2>Contact</h2>
+                <form method="post" action="#">
+                    <div class="contact-form">
+                        <input type="text" name="name" id="name" value="" placeholder="Name" required />
+                        <input type="email" name="email" id="email" value="" placeholder="Email" required />
+                        <textarea name="message" id="message" placeholder="Enter your message" rows="6" required></textarea>
+                        <button type="submit" class="primary">Send Message</button>
+                    </div>
+                </form>
+
+                <hr />
+
+            </section>
+
+        </div>
+
+        <!-- Footer -->
+        <footer id="footer">
+            <p>&copy; 2024 Ritu Yadav. All rights reserved. <br /> Designed by Ritu Yadav</p>
+        </footer>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+<div class="spacer"></div>    
+<style>
+    .spacer {
+        height: 60px; /* Adjust the value to your desired spacing */
+    }
+</style>
+</body>
+</html>
 
